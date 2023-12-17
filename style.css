@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;   
+}
+
+.noti-filter{
+    
+    background-color: #efeff1;
+    border-radius: 5px;
+    padding: 2vw;
+    margin: 1vw;
+}
+
+.noticias{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1vw;
+    gap: 0.3vw;
+    
+    
+}
+
+.noti-card{
+    background-color: #efeff1;
+    border-radius: 5px;
+    padding: 2vw;
+}
+.noti-card-title{
+
+}
+.noti-card-category{
+
+}
+.noti-card-div{
+
+}
+.noti-card-div-p{
+
+}
+
+.noti-card ::before{
+    border: solid black 1px;
+}
